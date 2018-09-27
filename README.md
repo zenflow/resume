@@ -39,8 +39,14 @@ I'm a born Software Developer with experience spanning over the last 17 of my 29
 
 ### Open-Source Highlights
 
+- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular UI component for modals/popups in vanilla JS, which is [downloaded ~50,000 times per week on NPM alone](https://www.npmjs.com/package/sweetalert2), and [has been known to hit the list of trending JS repositories on Github](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
+  - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release; examples: [fixed async control-flow](https://github.com/sweetalert2/sweetalert2/issues/485), [added functional-programming way to configure default options](https://github.com/sweetalert2/sweetalert2/pull/1023), [refactored to be object-oriented and extensible](https://github.com/sweetalert2/sweetalert2/issues/1007)
+  - Authored [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content), the official integration for React
+  - Made many improvements to the development experience of contributors [(1)](https://github.com/sweetalert2/sweetalert2/issues/820) [(2)](https://github.com/sweetalert2/sweetalert2/issues/821)
+- Became a contributor to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
+- Continue to play an important role in the Windows compatibility of the popular [dotenv](https://www.npmjs.com/package/dotenv) package [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/278)
 - JavaScript legend [@maxogden](https://github.com/maxogden) reviewed [a Pull Request of mine](https://github.com/maxogden/concat-stream/pull/39) and called the code "excellent"
-- I was made a Collaborator on [the `run-browser` package](https://www.npmjs.com/package/run-browser) with [@ForbesLindesay](https://github.com/ForbesLindesay) from Facebook and [@Raynos](https://github.com/Raynos) from Uber
+- Was made a Collaborator on [the `run-browser` package](https://www.npmjs.com/package/run-browser) with [@ForbesLindesay](https://github.com/ForbesLindesay) from Facebook and [@Raynos](https://github.com/Raynos) from Uber
 - Had [a Pull Request](https://github.com/defunctzombie/node-process/pull/48) merged into [the `process` package](https://github.com/defunctzombie/node-process) which is used by every modern front-end build system (Webpack, Browserify and SystemJS)
 - Author of [the `bpb` package](https://www.npmjs.com/package/bpb), a browserify transform to safely replace `process.browser` with `true` by working on the Abstract Syntax Tree (AST)
 - Author of [the `fast-download` package](https://www.npmjs.com/package/fast-download), providing accelerated (multiple connections) http download streams
