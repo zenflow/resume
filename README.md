@@ -63,16 +63,15 @@ I'm a born Software Developer with experience spanning over the last 17 of my 29
 ### Work Experience
 
 #### Contracted Developer, as Nomadic Enterprises
-*Manitoulin Transport - Gore Bay, ON - July 2015 to now*
+*Manitoulin Transport - Gore Bay, ON - July 2015 to December 2017*
 
-- Wrote one "portlet" on the legacy MT Direct (web interface to Manitoulin Transport's Enterprise Resource Management system, written in Perl), employing modern design principles such as server-browser code sharing and the Single Page Application model, and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
-- Maintained and enhanced existing "portlets" on the legacy MT Direct
+- Maintained and enhanced existing applications on the legacy MT Direct
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
-- Performed research and development on technologies to be used for the rewrite of MT Direct
-- Codified and taught a simple yet robust Git workflow, based on Git-Flow, with specific step-by-step instructions for working with Github and SourceTree
-- Managed, directed, and conducted Quality Assurance for several programmers in the rewrite of MT Direct
-- Developed a front-end for the rewrite of MT Direct, using leading-edge technologies such as ES2015+, Gulp, Browserify, AngularJS, SASS, ESLint and Karma+Jasmine
+- Wrote one major application on the legacy MT Direct (web interface to Manitoulin Transport's Enterprise Resource Management system, written in Perl), employing modern design principles such as server-browser code sharing and the Single Page Application model, and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
+- Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
+- Worked on various proofs-of-concept for the rewrite of MT Direct
+- Devised and implemented a migration path to move the legacy MT Direct from SVN to Git
 
 #### Contracted Developer
 *Lixar I.T. Inc - Ottawa, ON - August 2014 to December 2014*
