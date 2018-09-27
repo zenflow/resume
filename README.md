@@ -24,9 +24,9 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
 
 <dl>
   <dt>Languages</dt>
-  <dd>JavaScript (ES5, ES2016+), Perl (5.x), PHP (5.x), C#, Java, HTML (XHTML, HTML5), CSS (3), SASS, SQL (MySQL, MSSQL, DB2), Command-line (Windows Command Shell, BASH)</dd>
+  <dd>JavaScript (ES5, ES2018+), Perl (5.x), PHP (5.x), C#, Java, HTML (XHTML, HTML5), CSS (3), SASS, SQL (MySQL, MSSQL, DB2), Command-line (Windows Command Shell, BASH)</dd>
   <dt>Libraries</dt>
-  <dd>Express, Lodash, Babel, Gulp, Browserify, Webpack, AngularJS, KnockoutJS, jQuery, Ractive, Twitter Bootstrap, Jasmine, tape, Electron</dd>
+  <dd>Express, Fastify, Feathers, graphql-js, Next.js, Babel, Gulp, Browserify, Webpack, React, KnockoutJS, AngularJS, jQuery, react-apollo, Twitter Bootstrap, Semantic UI, Jasmine, tape, Jest, Electron, Apache Cordova</dd>
   <dt>Servers</dt>
   <dd>Apache, nginx, Tomcat</dd>
   <dt>Operating Systems</dt>
