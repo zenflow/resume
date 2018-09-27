@@ -7,9 +7,9 @@
   <dt>Address</dt>
   <dd>PO Box 286<br>Kagawong, Ontario<br>P0P 1H0<br>Canada</dd>
   <dt>Email</dt>
-  <dd>zenflow87@gmail.com or matthewbrunetti87@gmail.com</dd>
+  <dd><a href="mailto:zenflow87@gmail.com">zenflow87@gmail.com</a></dd>
   <dt>Phone</dt>
-  <dd>(705) 210 9997</dd>
+  <dd>(705) 210 8615</dd>
   <dt>Github</dt>
   <dd><a href="https://github.com/zenflow">@zenflow</a></dd>
   <dt>Twitter</dt>
