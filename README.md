@@ -39,12 +39,39 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
 
 ### Open-Source Highlights
 
+- Contributed to the Node.js runtime by [proposing](https://github.com/nodejs/node/issues/35288) and [implementing](https://github.com/nodejs/node/pull/35369) a new feature
 - Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular UI component for modals/popups in vanilla JS, which is [downloaded hundreds of thousands of times per week on NPM alone](https://www.npmjs.com/package/sweetalert2), and [has been known to hit the list of trending JS repositories on Github](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
   - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release; examples: [fixed async control-flow](https://github.com/sweetalert2/sweetalert2/issues/485), [added functional-programming way to configure default options](https://github.com/sweetalert2/sweetalert2/pull/1023), [refactored to be object-oriented and extensible](https://github.com/sweetalert2/sweetalert2/issues/1007)
   - Authored [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content), the official integration for React
   - Made many improvements to the development experience of contributors [(1)](https://github.com/sweetalert2/sweetalert2/issues/820) [(2)](https://github.com/sweetalert2/sweetalert2/issues/821)
+- Worked on SSR (server-side rendered) SPA (single page application) architecture in 2014, long before it was popularized, authoring the [ractive-express](https://github.com/zenflow/ractive-express#readme) package
 - Contributed to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
 - Contributed to the popular [dotenv](https://www.npmjs.com/package/dotenv) package with fixes for Windows compatibility [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/307)
+- Contributed fixes and enhancements to many other awesome projects including
+  [opencog/link-grammar](https://github.com/opencog/link-grammar),
+  [FormidableLabs/urql](https://github.com/FormidableLabs/urql),
+  [tinacms/tinacms](https://github.com/tinacms/tinacms),
+  [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct),
+  [FormidableLabs/react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass),
+  [mobxjs/mst-gql](https://github.com/mobxjs/mst-gql),
+  [facebook/docusaurus](https://github.com/facebook/docusaurus),
+  [SerayaEryn/fastify-session](https://github.com/SerayaEryn/fastify-session),
+  [fastify/fastify-swagger](https://github.com/fastify/fastify-swagger),
+  [pinojs/pino](https://github.com/pinojs/pino),
+  [lerna/lerna](https://github.com/lerna/lerna),
+  [yargs/yargs](https://github.com/yargs/yargs),
+  [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI),
+  and [many more](https://github.com/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged)
+- Authored a number of packages on npm including
+  [composite-service](https://www.npmjs.com/package/composite-service),
+  [generate-ctrl-c-event](https://www.npmjs.com/package/generate-ctrl-c-event),
+  [docker-run-kill](https://www.npmjs.com/package/docker-run-kill),
+  [stream-line-reader](https://www.npmjs.com/package/stream-line-reader),
+  [link-parser-js](https://www.npmjs.com/package/link-parser-js),
+  [flatstream](https://www.npmjs.com/package/flatstream),
+  [bpb](https://www.npmjs.com/package/bpb),
+  [fast-download](https://www.npmjs.com/package/fast-download),
+  and more.
 
 ---
 
