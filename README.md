@@ -93,29 +93,33 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
 #### Contracted Developer, as Nomadic Enterprises
 *Manitoulin Transport - Gore Bay, ON - July 2015 to December 2017*
 
-- Maintained and enhanced existing applications on the legacy MT Direct
+- Maintained and enhanced existing applications on the legacy MT Direct,
+  a web interface to Manitoulin Transport's Enterprise Resource Planning system,
+  using Perl on the backend and jQuery + jQuery UI on the frontend
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
-- Wrote one major application on the legacy MT Direct (web interface to Manitoulin Transport's Enterprise Resource Management system, written in Perl), employing modern design principles such as server-browser code sharing and the Single Page Application model, and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
-- Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
+- Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
 - Worked on various proofs-of-concept for the rewrite of MT Direct
-- Devised and implemented a migration path to move the legacy MT Direct from SVN to Git
+- Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
+- Devised and implemented a migration path to move the legacy MT Direct from SVN to Git while allowing team members to move at their own pace
 
 #### Contracted Developer
 *Lixar I.T. Inc - Ottawa, ON - August 2014 to December 2014*
 
-- Worked on a front-end UI for a Bell modem/router, providing bug fixes, new feature implementations, quality assurance, and recommendations for migrating the existing code-base to more maintainable patterns
-- Provided enhancements for two existing web applications (both coded in PHP) for the Ontario Regional Blood Coordinating Network (ORBCoN): "e-tools" used for administering online courses and evaluation, and "Platelets" used for keeping track of blood platelets and sharing them between hospitals
+- Worked on a front-end UI for a Bell modem/router, providing bug fixes, new feature implementations, quality assurance,
+  and guidance for migrating the existing code-base to more maintainable patterns (particularly in the use of Promises)
+- Provided enhancements for two existing web applications, both using CodeIgniter PHP web framework,
+  for the Ontario Regional Blood Coordinating Network (ORBCoN):
+  "e-tools" used for administering online courses and evaluation,
+  and "Platelets" used for keeping track of blood platelets and sharing them between hospitals
 - Implemented the front-end for a fantasy baseball game for APBA Games
 
 #### Junior Developer
 *Lixar I.T. Inc - Ottawa, ON - May 2011 to October 2011*
 
-- Updated a variety of pre-existing LAMP web applications (Code Igniter, Zend and hand-coded) to implement
-new functionality.
-- Acted as a team player by dealing with bugs and browser compatibility issues for lead developers
-- Fulfilled a unique role as the resident Flash guy. Built and upgraded various interactive Flash applets for
-the web.
+- Implemented new features in a variety of pre-existing LAMP (Linux Apache MySQL PHP) web applications, using CodeIgniter, Zend, and vanilla PHP
+- Acted as a team player by dealing with bugs and browser compatibility issues for other developers
+- Fulfilled a unique role as the resident Flash guy, building and upgrading various interactive Flash applets for the web
 - Updated content and design for CMS instances (Drupal, WordPress, Expression Engine)
 
 #### Sales Associate
@@ -128,5 +132,5 @@ the web.
 
 #### Contracted Developer
 *Manitoulin Transport - Gore Bay, ON - May 2006 to December 2006*
-- Upgraded proprietary software (coded in Visual Basic) used by Manitoulin Transport and its business partners for creating, viewing and performing other operations with Bill of Lading data entities.
+- Implemented new features in a Visual Basic desktop application used by Manitoulin Transport and its business partners for creating, viewing, printing, submitting and performing other operations with Bill of Lading documents
 
