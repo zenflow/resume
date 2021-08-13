@@ -45,11 +45,6 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
   - Made many improvements to the development experience of contributors [(1)](https://github.com/sweetalert2/sweetalert2/issues/820) [(2)](https://github.com/sweetalert2/sweetalert2/issues/821)
 - Became a contributor to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
 - Continue to play an important role in the Windows compatibility of the popular [dotenv](https://www.npmjs.com/package/dotenv) package [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/278)
-- JavaScript legend [@maxogden](https://github.com/maxogden) reviewed [a Pull Request of mine](https://github.com/maxogden/concat-stream/pull/39) and called the code "excellent"
-- Was made a Collaborator on [the `run-browser` package](https://www.npmjs.com/package/run-browser) with [@ForbesLindesay](https://github.com/ForbesLindesay) from Facebook and [@Raynos](https://github.com/Raynos) from Uber
-- Had [a Pull Request](https://github.com/defunctzombie/node-process/pull/48) merged into [the `process` package](https://github.com/defunctzombie/node-process) which is used by every modern front-end build system (Webpack, Browserify and SystemJS)
-- Author of [the `bpb` package](https://www.npmjs.com/package/bpb), a browserify transform to safely replace `process.browser` with `true` by working on the Abstract Syntax Tree (AST)
-- Author of [the `fast-download` package](https://www.npmjs.com/package/fast-download), providing accelerated (multiple connections) http download streams
 
 ---
 
