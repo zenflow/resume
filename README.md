@@ -39,12 +39,12 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
 
 ### Open-Source Highlights
 
-- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular UI component for modals/popups in vanilla JS, which is [downloaded ~50,000 times per week on NPM alone](https://www.npmjs.com/package/sweetalert2), and [has been known to hit the list of trending JS repositories on Github](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
+- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular UI component for modals/popups in vanilla JS, which is [downloaded hundreds of thousands of times per week on NPM alone](https://www.npmjs.com/package/sweetalert2), and [has been known to hit the list of trending JS repositories on Github](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
   - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release; examples: [fixed async control-flow](https://github.com/sweetalert2/sweetalert2/issues/485), [added functional-programming way to configure default options](https://github.com/sweetalert2/sweetalert2/pull/1023), [refactored to be object-oriented and extensible](https://github.com/sweetalert2/sweetalert2/issues/1007)
   - Authored [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content), the official integration for React
   - Made many improvements to the development experience of contributors [(1)](https://github.com/sweetalert2/sweetalert2/issues/820) [(2)](https://github.com/sweetalert2/sweetalert2/issues/821)
-- Became a contributor to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
-- Continue to play an important role in the Windows compatibility of the popular [dotenv](https://www.npmjs.com/package/dotenv) package [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/278)
+- Contributed to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
+- Contributed to the popular [dotenv](https://www.npmjs.com/package/dotenv) package with fixes for Windows compatibility [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/307)
 
 ---
 
