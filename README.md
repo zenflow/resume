@@ -91,6 +91,17 @@ I'm a born Software Developer with experience spanning over the last 18 of my 30
 ### Work Experience
 
 #### Contracted Developer, as Nomadic Enterprises
+*Manitoulin Transport - Remote - October 2018 to July 2019*
+
+- Hired as frontend developer working with Vue & [Quasar Framework](https://quasar.dev/) on the MT Direct 2 project,
+  the next generation of web interface to Manitoulin Transport's Enterprise Resource Planning system
+- Later promoted to Lead Developer & Architect of the MT Direct 2 project,
+  planning and overseeing development of the project including the Django Python backend
+- Organized tasks, lead daily team meetings, planned solutions in collaboration with team members, reviewed Pull Requests to give constructive feedback, and implemented bug fixes and features 
+- Implemented solutions to many challenging problems presented by the requirement to integrate with legacy systems, and the unique requirement to build a highly scalable (in terms of code and features) monolithic application
+- Worked as DevOps engineer, using Jenkins CI/CD to automate building, testing, and deployment of several web applications in addition to MT Direct 2, including the legacy MT Direct
+
+#### Contracted Developer, as Nomadic Enterprises
 *Manitoulin Transport - Gore Bay, ON - July 2015 to December 2017*
 
 - Maintained and enhanced existing applications on the legacy MT Direct,
