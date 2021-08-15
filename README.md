@@ -39,15 +39,13 @@
 
 <dl>
   <dt>Languages</dt>
-  <dd>JavaScript (ES5, ES2018+), Perl (5.x), PHP (5.x), C#, Java, HTML (XHTML, HTML5), CSS (3), SASS, SQL (MySQL, MSSQL, DB2), Command-line (Windows Command Shell, BASH)</dd>
-  <dt>Libraries</dt>
-  <dd>Express, Fastify, Feathers, graphql-js, Next.js, Babel, Gulp, Browserify, Webpack, React, KnockoutJS, AngularJS, jQuery, react-apollo, Twitter Bootstrap, Semantic UI, Jasmine, tape, Jest, Electron, Apache Cordova</dd>
-  <dt>Servers</dt>
-  <dd>Apache, nginx, Tomcat</dd>
-  <dt>Operating Systems</dt>
-  <dd>Windows (XP, 7, 10), Linux (CentOS, Debian)</dd>
-  <dt>Tools</dt>
-  <dd>Git (Command-line, SourceTree, Github), SVN (TortoiseSVN), JetBrains WebStorm, Visual Studio, Eclipse, Chrome Developer Tools, Cygwin, Beyond Compare</dd>
+  <dd>JavaScript (ES5, ES6+), TypeScript, GraphQL, PHP, Perl, Python, HTML, CSS, SASS, SQL (MySQL, MSSQL, DB2, PostgreSQL), Bash, PowerShell</dd>
+  <dt>Libraries & Frameworks</dt>
+  <dd>Connect, Express, Fastify, Next.js, Babel, PostCSS, Webpack, React, Vue, jQuery, Redux, MobX, MobX-State-Tree, Axios, Apollo Client, urql, gqless, Bootstrap, Semantic UI, Material UI, styled-components, Jest, Jasmine, Electron</dd>
+  <dt>Development Tools</dt>
+  <dd>Git, GitHub, Jira, JetBrains WebStorm, Chrome DevTools, Windows Subsystem for Linux</dd>
+  <dt>DevOps Tools</dt>
+  <dd>Docker, GitHub Actions, Jenkins, Elastic APM, Vercel, Heroku</dd>
 </dl>
 
 ---
