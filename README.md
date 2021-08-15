@@ -10,6 +10,8 @@
 
 ---
 
+### Contact
+
 <dl>
   <dt>Address</dt>
   <dd>PO Box 286<br>Kagawong, Ontario<br>P0P 1H0<br>Canada</dd>
@@ -25,9 +27,13 @@
 
 ---
 
+### Profile
+
 I'm a born Software Developer with experience spanning over the last 18 of my 30 years. My skills are focused on the "Open Web Platform" and various web-server platforms: PHP, Perl, and, most notably, node.js. I adapt easily to new languages, environments and interfaces, and have a range of experience outside of the web domain, i.e. desktop and mobile applications. I have a strong talent for leveraging the open-source community, and a passion for creating a high-end user experience.
 
 ---
+
+### Technical Skills
 
 <dl>
   <dt>Languages</dt>
