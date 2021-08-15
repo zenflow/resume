@@ -1,5 +1,12 @@
-# Resume of Matthew Brunetti
-### Software Developer
+<h1 align="center">Resume of Matthew Francis Brunetti</h1>
+
+<h2 align="center">Full-Stack Software Engineer</h2>
+
+<h2 align="center">
+  <a href="https://github.com/zenflow/resume#readme">Repository</a>
+  •
+  <a href="https://github.com/zenflow/resume/releases/latest/download/Resume.of.Matthew.Francis.Brunetti.pdf">Latest PDF</a>
+</h2>
 
 ---
 
