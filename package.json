@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "repository": "https://github.com/zenflow/resume",
+  "author": "Matthew Francis Brunetti <zenflow87@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "md-to-pdf README.md --config-file md-to-pdf.config.js",
+    "watch": "yarn build --watch"
+  },
+  "dependencies": {
+    "md-to-pdf": "^4.0.0"
+  }
+}

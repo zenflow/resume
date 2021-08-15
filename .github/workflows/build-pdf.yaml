@@ -1,0 +1,25 @@
+name: Build PDF
+on: [push]
+jobs:
+  main_job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: deps-${{ hashFiles('yarn.lock') }}
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - uses: actions/upload-artifact@v2
+        with:
+          name: pdf
+          path: '*.pdf'
+      - run: echo "date_time_stamp=$(date +'%Y.%m.%d.%H.%M.%S')" >> $GITHUB_ENV
+      - if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v1
+        with:
+          target_commitish: ${{ github.sha }}
+          tag_name: ${{ env.date_time_stamp }}
+          body: 🙂 # prevent default of latest commit message
+          files: '*.pdf'
