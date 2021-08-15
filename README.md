@@ -55,38 +55,43 @@
 ### Open-Source Highlights
 
 - Contributed to the Node.js runtime by [proposing](https://github.com/nodejs/node/issues/35288) and [implementing](https://github.com/nodejs/node/pull/35369) a new feature
-- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular UI component for modals/popups in vanilla JS, which is [downloaded hundreds of thousands of times per week on NPM alone](https://www.npmjs.com/package/sweetalert2), and [has been known to hit the list of trending JS repositories on Github](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
-  - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release; examples: [fixed async control-flow](https://github.com/sweetalert2/sweetalert2/issues/485), [added functional-programming way to configure default options](https://github.com/sweetalert2/sweetalert2/pull/1023), [refactored to be object-oriented and extensible](https://github.com/sweetalert2/sweetalert2/issues/1007)
+- Worked on SSR (server-side rendered) SPA (single-page application) ecosystem in 2014, long before it was popularized, authoring first the [ractive-express](https://github.com/zenflow/ractive-express#readme) package and later the [ractive-isomorphic](https://github.com/zenflow/ractive-isomorphic#readme) package  
+- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular vanilla-JS UI component for modals/popups in vanilla JS, which is downloaded hundreds of thousands of times per week from NPM alone [(reference)](https://www.npmjs.com/package/sweetalert2), and has been known to hit the list of trending JS repositories on Github [(reference)](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
+  - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release. For example:
+    fixed async control-flow [(#485)](https://github.com/sweetalert2/sweetalert2/issues/485),
+    added functional-programming way to configure default options [(#1023)](https://github.com/sweetalert2/sweetalert2/pull/1023),
+    refactored to be object-oriented and extensible [(#1036)](https://github.com/sweetalert2/sweetalert2/pull/1036)
   - Authored [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content), the official integration for React
-  - Made many improvements to the development experience of contributors [(1)](https://github.com/sweetalert2/sweetalert2/issues/820) [(2)](https://github.com/sweetalert2/sweetalert2/issues/821)
-- Worked on SSR (server-side rendered) SPA (single page application) architecture in 2014, long before it was popularized, authoring the [ractive-express](https://github.com/zenflow/ractive-express#readme) package
-- Contributed to the [Next.js](https://github.com/zeit/next.js) project by [improving the example integration with Apollo GraphQL](https://github.com/zeit/next.js/pull/5241)
-- Contributed to the popular [dotenv](https://www.npmjs.com/package/dotenv) package with fixes for Windows compatibility [(1)](https://github.com/motdotla/dotenv/pull/278) [(2)](https://github.com/motdotla/dotenv/pull/307)
-- Contributed fixes and enhancements to many other awesome projects including
-  [opencog/link-grammar](https://github.com/opencog/link-grammar),
-  [FormidableLabs/urql](https://github.com/FormidableLabs/urql),
-  [tinacms/tinacms](https://github.com/tinacms/tinacms),
-  [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct),
-  [FormidableLabs/react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass),
-  [mobxjs/mst-gql](https://github.com/mobxjs/mst-gql),
-  [facebook/docusaurus](https://github.com/facebook/docusaurus),
-  [SerayaEryn/fastify-session](https://github.com/SerayaEryn/fastify-session),
-  [fastify/fastify-swagger](https://github.com/fastify/fastify-swagger),
-  [pinojs/pino](https://github.com/pinojs/pino),
-  [lerna/lerna](https://github.com/lerna/lerna),
-  [yargs/yargs](https://github.com/yargs/yargs),
-  [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI),
-  and [many more](https://github.com/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged)
-- Authored a number of packages on npm including
+  - Made many improvements to the development experience of contributors. For example: [#970](https://github.com/sweetalert2/sweetalert2/issues/970), [#885](https://github.com/sweetalert2/sweetalert2/pull/885), [#820](https://github.com/sweetalert2/sweetalert2/issues/820)
+- Contributed to the [Next.js](https://github.com/zeit/next.js) project by improving the example integration with Apollo GraphQL [(#5241)](https://github.com/zeit/next.js/pull/5241)
+- Contributed to the ubiquitous [dotenv](https://www.npmjs.com/package/dotenv) package with fixes for Windows compatibility ([#278](https://github.com/motdotla/dotenv/pull/278), [#307](https://github.com/motdotla/dotenv/pull/307))
+- Contributed fixes and enhancements to many other awesome projects, including
+  [FormidableLabs/urql](https://github.com/FormidableLabs/urql/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [tinacms/tinacms](https://github.com/tinacms/tinacms/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [FormidableLabs/react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [mobxjs/mst-gql](https://github.com/mobxjs/mst-gql/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [facebook/docusaurus](https://github.com/facebook/docusaurus/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [SerayaEryn/fastify-session](https://github.com/SerayaEryn/fastify-session/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [fastify/fastify-swagger](https://github.com/fastify/fastify-swagger/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [pinojs/pino](https://github.com/pinojs/pino/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [lerna/lerna](https://github.com/lerna/lerna/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [yargs/yargs](https://github.com/yargs/yargs/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
+  [opencog/link-grammar](https://github.com/opencog/link-grammar/commits?author=zenflow),
+  and [more](https://github.com/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged)
+- Authored a number of packages on the npm package registry, including
+  [sweetalert2-react-content](https://www.npmjs.com/package/sweetalert2-react-content),
   [composite-service](https://www.npmjs.com/package/composite-service),
   [generate-ctrl-c-event](https://www.npmjs.com/package/generate-ctrl-c-event),
   [docker-run-kill](https://www.npmjs.com/package/docker-run-kill),
   [stream-line-reader](https://www.npmjs.com/package/stream-line-reader),
   [link-parser-js](https://www.npmjs.com/package/link-parser-js),
+  [ractive-express](https://www.npmjs.com/package/ractive-express),
   [flatstream](https://www.npmjs.com/package/flatstream),
   [bpb](https://www.npmjs.com/package/bpb),
   [fast-download](https://www.npmjs.com/package/fast-download),
-  and more.
+  and [more](https://www.npmjs.com/~zen_flow)
 
 ---
 
@@ -124,7 +129,7 @@
   using Perl on the backend and jQuery + jQuery UI on the frontend
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
-- Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
+- Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
 - Worked on various proofs-of-concept for the rewrite of MT Direct
 - Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
 - Devised and implemented a migration path to move the legacy MT Direct from SVN to Git while allowing team members to move at their own pace
