@@ -1,27 +1,30 @@
-<h1 align="center">Resume of Matthew Francis Brunetti</h1>
+<h1 align="center">
+  Resume of Matthew Francis Brunetti
+  <br/>
+  <small>Full-Stack Software Engineer</small>
+</h1>
 
-<h2 align="center">Full-Stack Software Engineer</h2>
-
-<h2 align="center">
+<div align="center" class="bigger">
   <a href="https://github.com/zenflow/resume#readme">Repository</a>
   •
   <a href="https://github.com/zenflow/resume/releases/latest/download/Resume.of.Matthew.Francis.Brunetti.pdf">Latest PDF</a>
-</h2>
+</div>
 
 ---
 
-### Contact
-
-<dl>
-  <dt>Email</dt>
-  <dd><a href="mailto:zenflow87@gmail.com">zenflow87@gmail.com</a></dd>
-  <dt>Phone</dt>
-  <dd>1-705-321-9444</dd>
-  <dt>Github</dt>
-  <dd><a href="https://github.com/zenflow">@zenflow</a></dd>
-  <dt>Twitter</dt>
-  <dd><a href="https://twitter.com/zenflow87">@zenflow87</a></dd>
-</dl>
+<div align="center" class="bigger">
+  <strong>Email</strong>
+  <a href="mailto:zenflow87@gmail.com">zenflow87@gmail.com</a>
+  •
+  <strong>Phone</strong>
+  1-705-321-9444
+  •
+  <strong>Github</strong>
+  <a href="https://github.com/zenflow">@zenflow</a>
+  •
+  <strong>Twitter</strong>
+  <a href="https://twitter.com/zenflow87">@zenflow87</a>
+</div>
 
 ---
 
@@ -77,7 +80,7 @@
   [yargs/yargs](https://github.com/yargs/yargs/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged),
   [opencog/link-grammar](https://github.com/opencog/link-grammar/commits?author=zenflow),
-  and [more](https://github.com/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged)
+  and [many more](https://github.com/pulls?q=is%3Apr+author%3Azenflow+is%3Amerged)
 - Authored a number of packages on the npm package registry, including
   [sweetalert2-react-content](https://www.npmjs.com/package/sweetalert2-react-content),
   [composite-service](https://www.npmjs.com/package/composite-service),

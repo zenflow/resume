@@ -10,6 +10,7 @@
     "watch": "yarn build --watch"
   },
   "dependencies": {
+    "marx-css": "^3.0.8",
     "md-to-pdf": "^4.0.0"
   }
 }
