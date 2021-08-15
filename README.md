@@ -13,12 +13,10 @@
 ### Contact
 
 <dl>
-  <dt>Address</dt>
-  <dd>PO Box 286<br>Kagawong, Ontario<br>P0P 1H0<br>Canada</dd>
   <dt>Email</dt>
   <dd><a href="mailto:zenflow87@gmail.com">zenflow87@gmail.com</a></dd>
   <dt>Phone</dt>
-  <dd>(705) 210 8615</dd>
+  <dd>1-705-321-9444</dd>
   <dt>Github</dt>
   <dd><a href="https://github.com/zenflow">@zenflow</a></dd>
   <dt>Twitter</dt>
