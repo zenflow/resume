@@ -19,7 +19,7 @@
   <strong>Phone</strong>
   1-705-321-9444
   •
-  <strong>Github</strong>
+  <strong>GitHub</strong>
   <a href="https://github.com/zenflow">@zenflow</a>
   •
   <strong>Twitter</strong>
@@ -30,7 +30,7 @@
 
 ### Profile
 
-- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 21 years
+- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 22 of my 33 years
 - Skills focused on the "Open Web Platform" and various open-source web-server platforms: PHP, Perl, Python, and, most significantly, Node.js
 - Adapts easily to new languages, environments and interfaces, and has a range of experience outside the web domain, such as desktop and mobile applications, and embedded software
 - Strong talent for collaboration and leveraging the open-source community
@@ -57,7 +57,7 @@
 
 - Contributed to the Node.js runtime by [proposing](https://github.com/nodejs/node/issues/35288) and [implementing](https://github.com/nodejs/node/pull/35369) a new feature
 - Worked on SSR (server-side rendered) SPA (single-page application) ecosystem in 2014, long before it was popularized, authoring first the [ractive-express](https://github.com/zenflow/ractive-express#readme) package and later the [ractive-isomorphic](https://github.com/zenflow/ractive-isomorphic#readme) package  
-- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular vanilla-JS UI component for modals/popups in vanilla JS, which is downloaded hundreds of thousands of times per week from NPM alone [(reference)](https://www.npmjs.com/package/sweetalert2), and has been known to hit the list of trending JS repositories on Github [(reference)](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
+- Collaborated extensively on [sweetalert2](https://github.com/sweetalert2/sweetalert2), a popular vanilla-JS UI component for modals/popups in vanilla JS, which is downloaded hundreds of thousands of times per week from NPM alone [(reference)](https://www.npmjs.com/package/sweetalert2), and has been known to hit the list of trending JS repositories on GitHub [(reference)](https://github.com/sweetalert2/sweetalert2/issues?q=is%3Aissue+trending)
   - Made dramatic improvements to the public API, while deferring any breaking changes to the next major release. For example:
     fixed async control-flow [(#485)](https://github.com/sweetalert2/sweetalert2/issues/485),
     added functional-programming way to configure default options [(#1023)](https://github.com/sweetalert2/sweetalert2/pull/1023),
@@ -133,7 +133,7 @@
 - Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
 - Worked on various proofs-of-concept for the rewrite of MT Direct
 - Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
-- Devised and implemented a migration path to move the legacy MT Direct from SVN to Git while allowing team members to move at their own pace
+- Devised and implemented a migration path to move the legacy MT Direct from SVN to Git & GitHub while allowing team members to move at their own pace
 
 #### Contracted Developer
 *Lixar I.T. Inc - Ottawa, ON - August 2014 to December 2014*
