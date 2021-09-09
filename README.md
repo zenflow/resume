@@ -130,9 +130,9 @@
   using Perl on the backend and jQuery + jQuery UI on the frontend
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
-- Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
-- Worked on various proofs-of-concept for the rewrite of MT Direct
-- Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
+- Developed and maintained one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
+- Worked on various proofs-of-concept for the Node.js rewrite of MT Direct
+- Conducted Quality Assurance for and helped to manage several programmers in the Java/Spring rewrite of MT Direct
 - Devised and implemented a migration path to move the legacy MT Direct from SVN to Git & GitHub while allowing team members to move at their own pace
 
 #### Contracted Developer
@@ -154,15 +154,7 @@
 - Fulfilled a unique role as the resident Flash guy, building and upgrading various interactive Flash applets for the web
 - Updated content and design for CMS instances (Drupal, WordPress, Expression Engine)
 
-#### Sales Associate
-*The Source by Circuit City Electronics - Edmonton, AB - October 2008 to July 2009*
-
-- In weekly statistical reports, consistently ranked 2nd in sales at my location and within the top 15 of all Sales Associates at all 14 locations in the Edmonton district
-- Received recognition from management for my ability to up-sell customers with extended warranties
-- Successfully managed customer service and technical support requests, resulting in marked customer satisfaction
-- Proven team player by sharing tasks of stocking shelves, cleaning and setting up and maintaining displays
-
 #### Contracted Developer
 *Manitoulin Transport - Gore Bay, ON - May 2006 to December 2006*
-- Implemented new features in a Visual Basic desktop application used by Manitoulin Transport and its business partners for creating, viewing, printing, submitting and performing other operations with Bill of Lading documents
+- Implemented features in a Visual Basic desktop application used by Manitoulin Transport and its business partners for creating, viewing, printing, submitting and performing other operations with Bill of Lading documents
 
