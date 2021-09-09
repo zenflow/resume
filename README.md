@@ -130,9 +130,9 @@
   using Perl on the backend and jQuery + jQuery UI on the frontend
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
-- Wrote one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
-- Worked on various proofs-of-concept for the rewrite of MT Direct
-- Conducted Quality Assurance for and helped to manage several programmers in the rewrite of MT Direct
+- Developed and maintained one major customer-facing application on the legacy MT Direct, employing modern design principles such as the Single-Page Application (SPA) model, the Model–View–ViewModel (MVVM) model, and server-browser code sharing, using [KnockoutJS](https://knockoutjs.com/), and delivering a dramatically enhanced User eXperience to Manitoulin Transport's customers
+- Worked on various proofs-of-concept for the Node.js rewrite of MT Direct
+- Conducted Quality Assurance for and helped to manage several programmers in the Java/Spring rewrite of MT Direct
 - Devised and implemented a migration path to move the legacy MT Direct from SVN to Git & GitHub while allowing team members to move at their own pace
 
 #### Contracted Developer
