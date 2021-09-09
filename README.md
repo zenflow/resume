@@ -156,5 +156,5 @@
 
 #### Contracted Developer
 *Manitoulin Transport - Gore Bay, ON - May 2006 to December 2006*
-- Implemented new features in a Visual Basic desktop application used by Manitoulin Transport and its business partners for creating, viewing, printing, submitting and performing other operations with Bill of Lading documents
+- Implemented features in a Visual Basic desktop application used by Manitoulin Transport and its business partners for creating, viewing, printing, submitting and performing other operations with Bill of Lading documents
 
