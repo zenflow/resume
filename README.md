@@ -43,11 +43,11 @@
 
 <dl>
   <dt>Languages</dt>
-  <dd>JavaScript (ES5, ES6+), TypeScript, GraphQL, PHP, Perl, Python, HTML, CSS, SASS, SQL (MySQL, MSSQL, DB2, PostgreSQL), Bash, PowerShell</dd>
+  <dd>JavaScript (ES5, ES6+), TypeScript, Python, Perl, PHP, HTML, CSS, SASS, SQL (MySQL, DB2, PostgreSQL), GraphQL, Bash, PowerShell</dd>
   <dt>Libraries & Frameworks</dt>
-  <dd>Connect, Express, Fastify, Next.js, Babel, PostCSS, Webpack, React, Vue, jQuery, Redux, MobX, MobX-State-Tree, Axios, Apollo Client, urql, gqless, Bootstrap, Semantic UI, Material UI, styled-components, Jest, Jasmine, Electron</dd>
+  <dd>Express, Fastify, Next.js, Django, Webpack, Babel, PostCSS, React, Vue, jQuery, MobX, Axios, Apollo Client, urql, Bootstrap, Quasar Framework, Semantic UI, Material UI, styled-components, Tailwind CSS, Jest, Jasmine, Electron</dd>
   <dt>Development Tools</dt>
-  <dd>Git, GitHub, Jira, JetBrains WebStorm, Chrome DevTools, Windows Subsystem for Linux</dd>
+  <dd>Git, GitHub, Jira, JetBrains WebStorm, Chrome DevTools, Windows Subsystem for Linux, Beyond Compare</dd>
   <dt>DevOps Tools</dt>
   <dd>Docker, GitHub Actions, Jenkins, Elastic APM, Vercel, Heroku</dd>
 </dl>
