@@ -30,7 +30,7 @@
 
 ### Profile
 
-- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 22 of my 33 years
+- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 23 of my 34 years
 - Skills focused on the "Open Web Platform" and various open-source web-server platforms: PHP, Perl, Python, and, most significantly, Node.js
 - Adapts easily to new languages, environments and interfaces, and has a range of experience outside the web domain, such as desktop and mobile applications, and embedded software
 - Strong talent for collaboration and leveraging the open-source community
