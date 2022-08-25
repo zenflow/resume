@@ -11,6 +11,9 @@ module.exports = {
     .bigger {
       font-size: 120%;
     }
+    hr {
+      margin: 1.5em 0;
+    }
   `,
   pdf_options: {
     format: "Letter",
