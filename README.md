@@ -30,10 +30,11 @@
 
 ### Profile
 
-- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 22 of my 33 years
+- Self-taught Software Programmer, Developer, and Engineer, with experience spanning the last 23 of my 34 years
 - Skills focused on the "Open Web Platform" and various open-source web-server platforms: PHP, Perl, Python, and, most significantly, Node.js
 - Adapts easily to new languages, environments and interfaces, and has a range of experience outside the web domain, such as desktop and mobile applications, and embedded software
 - Strong talent for collaboration and leveraging the open-source community
+- High attention to detail
 - Passion for creating high-end user and developer experiences
 
 ---
@@ -42,11 +43,11 @@
 
 <dl>
   <dt>Languages</dt>
-  <dd>JavaScript (ES5, ES6+), TypeScript, GraphQL, PHP, Perl, Python, HTML, CSS, SASS, SQL (MySQL, MSSQL, DB2, PostgreSQL), Bash, PowerShell</dd>
+  <dd>JavaScript (ES5, ES6+), TypeScript, Python, Perl, PHP, HTML, CSS, SASS, SQL (MySQL, DB2, PostgreSQL), GraphQL, Bash, PowerShell</dd>
   <dt>Libraries & Frameworks</dt>
-  <dd>Connect, Express, Fastify, Next.js, Babel, PostCSS, Webpack, React, Vue, jQuery, Redux, MobX, MobX-State-Tree, Axios, Apollo Client, urql, gqless, Bootstrap, Semantic UI, Material UI, styled-components, Jest, Jasmine, Electron</dd>
+  <dd>Express, Fastify, Next.js, Django, Webpack, Babel, PostCSS, React, Vue, jQuery, MobX, Axios, Apollo Client, urql, Bootstrap, Quasar Framework, Semantic UI, Material UI, styled-components, Tailwind CSS, Jest, Jasmine, Electron</dd>
   <dt>Development Tools</dt>
-  <dd>Git, GitHub, Jira, JetBrains WebStorm, Chrome DevTools, Windows Subsystem for Linux</dd>
+  <dd>Git, GitHub, Jira, JetBrains WebStorm, Chrome DevTools, Windows Subsystem for Linux, Beyond Compare</dd>
   <dt>DevOps Tools</dt>
   <dd>Docker, GitHub Actions, Jenkins, Elastic APM, Vercel, Heroku</dd>
 </dl>
@@ -111,11 +112,32 @@
 
 ### Work Experience
 
+#### Developer
+*Manitoulin Transport - Remote - January 2022 to present*
+
+- Maintained and enhanced existing applications on MT Direct 2,
+  the next generation of web interface to Manitoulin Transport's ERP systems,
+  using Python & Django on the backend and Vue & Quasar Framework on the frontend
+- Maintained and enhanced framework features and common components of MT Direct 2
+- Reviewed Pull Requests to give constructive feedback
+- Maintained some legacy MT Direct and standalone applications
+- Helped to port some legacy MT Direct applications to MT Direct 2
+- Performed upgrade of all MT Direct 2 frontend dependencies
+  (including Vue 2 to 3, Quasar Framework 1 to 2, and many others),
+  an especially challenging task since:
+  1. MT Direct 2 is a monolithic "physical" application consisting of many "logical" applications (over 40 at the time),
+  and as such it's not possible to upgrade and release each "logical" application one by one
+  (an architectural problem that management had previously declined to address)
+  2. The development team was simultaneously releasing new fixes, features, and applications
+  3. Testing was difficult as we had no specifications documents or automated tests,
+  much unintuitive code and UI, and many preexisting bugs
+  4. Many undocumented breaking changes were found in the dependencies, due to our unsupported misuse of some dependencies
+
 #### Contracted Developer, as Nomadic Enterprises
 *Manitoulin Transport - Remote - October 2018 to July 2019*
 
-- Hired as frontend developer working with Vue & [Quasar Framework](https://quasar.dev/) on the MT Direct 2 project,
-  the next generation of web interface to Manitoulin Transport's Enterprise Resource Planning system
+- Hired as frontend developer working with Vue & Quasar Framework on the MT Direct 2 project,
+  the next generation of web interface to Manitoulin Transport's ERP systems
 - Later promoted to Lead Developer & Architect of the MT Direct 2 project,
   planning and overseeing development of the project including the Django Python backend
 - Organized tasks, lead daily team meetings, planned solutions in collaboration with team members, reviewed Pull Requests to give constructive feedback, and implemented bug fixes and features 
@@ -126,7 +148,7 @@
 *Manitoulin Transport - Gore Bay, ON - July 2015 to December 2017*
 
 - Maintained and enhanced existing applications on the legacy MT Direct,
-  a web interface to Manitoulin Transport's Enterprise Resource Planning system,
+  a web interface to Manitoulin Transport's ERP systems,
   using Perl on the backend and jQuery + jQuery UI on the frontend
 - Worked effectively with employees in various departments and positions to obtain requirements and specifications
 - Provided first-class support to end-users of MT Direct
